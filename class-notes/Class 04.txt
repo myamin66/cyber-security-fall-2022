@@ -1,0 +1,82 @@
+Zero Day Attck
+
+security update found, but patch not installed and hacker access the system and make it vunerable
+
+Daisy Chainig: Getting access to one system and from it to another
+Zombie system: already comprisied system
+
+Docking
+Bot
+Attack Value: motivation or reward
+
+Payload: Malicious Code in the comments
+
+Hacker Classification
+
+1) Black Hat Hacker
+	- dont follow rules
+	- do for financial gain
+	- illegal	
+	- data encrypt, bank-accounts
+2) Gray Hat Hacker
+	- b/w white and black hat hacker
+	- do both legal and illegal task
+3) White hat hackers
+	- hired by organizations to find system vunerabilities
+	- legal
+4) Sucide Hacker
+	- work on agenda only, no threat or fear to them
+5) Script Kiddies
+	- just idea of the tools, perform action on that, if new tools arive cant work on that.
+	- same as diploma holder or technisian, not so much professional
+6) Cyber Terrorist
+	- high skills, inspired by extremist in religion, political belief
+7) State Sponsord Hacker
+	- hired by government
+	- armies
+8) Hacktivist
+	- inspired by any agenda 
+	- spread and promote that agenda through the internet
+
+8 types of cyber attack
+
+	Malware, Phishing, Password attack, DDos, Man in the middle, Drive by download, Malvertising, Rogue Software
+
+Rogue Software: fake message showing system has virus, slowed down, click to speed it up
+
+Worms vs Virus: Worms use system resourse like memory, they replicate and slow down the system, auto-action, no human involvemnt 
+		Virus mostly spread out through files and run after clicking
+
+Malvare has five types: in slides
+how to stop malware: stop click suspicious links, https or http, firewal install
+
+Phishing:
+	just like fishing (hook some bet up)
+how to stop: hower link, check subject if general it may be phishing, check from email
+
+Type of Password Attack:
+	1) key log attack
+	2) dicitionary attack
+	3) brute force attack
+how to stop password attack
+	1) change password after sometime
+	2) frequent password
+Dos and DDos attack
+
+Packet Flooding: ping, type of dos and ddos attack
+Prevention:
+	1) completely no ping request
+	2) or block large ping request from website
+Reconnaissance
+	collecting information about the devices that you want to make vunerable
+
+Zoomgroup.cdn: to collecting information about website or machine without connection to that machine
+
+https://zoomgroup.com/training/india/free-ebooks/cybersecurity-professional-lab-manual-view/html5forpc.html?page=0
+
+https://zoomgroup.com/training/india/cybersecurity.asp#
+
+install z-phisher before next class and explore its working
+
+
+ 
