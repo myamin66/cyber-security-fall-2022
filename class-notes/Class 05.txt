@@ -1,0 +1,7 @@
+Recap
+
+DNS Poisioning
+Session Hijacking
+Cross-site scripting
+VPN vs Proxy
+	While a proxy works with a single app or site, a VPN secures your network traffic
