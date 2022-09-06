@@ -5,3 +5,7 @@ Session Hijacking
 Cross-site scripting
 VPN vs Proxy
 	While a proxy works with a single app or site, a VPN secures your network traffic
+	VPN encrypt data while proxy not
+	VPN slow as compared to proxy
+First time access website, ip address will be loaded from DNS into the cashe
+next time its fast because locally its there
