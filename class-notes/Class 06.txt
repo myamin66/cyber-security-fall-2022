@@ -1,0 +1,30 @@
+-> One question from difference like info security vs network security, different type of viruses
+
+Social Engineering: information gathering by different sources, blackmailing, greed etc. guessing usernames and passwords
+
+Nigerian Frauds: sending funds in your account from foreign country.
+
+Investment Advice
+
+Fake or Biased review
+
+Pump and dump: zakheera andozi, 
+
+U.S. Securities and Exchange Commision tips
+
+Auction Fraud: Pakistani Amazon Frauds
+	product from local market
+	keep money and no proudct
+
+Shill bidding: bidding on high price e.g 25k, actual price 10k, someone will come and bid higher
+
+Bid shielding: 3 friends, put highest bid, 1 actual price bid. other person will not bid and leave it. at last moment withdraw top bids and lower will get the product
+
+bid siphoning: trustfull website, but when clicking on the product it will render to the othere page
+
+
+Cross-Site Scripting: Identity theft, your driving lisence used by multiple person by putting on their picutre on your d.liscence
+
+Mid term
+ 
+two theoratical, mcqs, case-study
