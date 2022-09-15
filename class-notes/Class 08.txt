@@ -1,0 +1,18 @@
+DoS vs DDoS attack
+types of dos attacks
+	1) SYN Floods
+		TCP/IP oriented is connection oriented.
+		Client send Syn request, server allocate some resources and sends syn+response but client dont acknowlege. Server keeps waiting and no connection completes. when legitmite user sends SYN request, buffer will already full.
+		Direct SYN attack vs IP spoofing (source Ip address is changed to hide the identitiy while doing the DoS attack. )
+		Sniffing:  packet Sniffing is listening in on other people's communications. Packet Spoofing is the dynamic presentation of fake network traffic that impersonates someone else.
+		Botnet: a full network of compromised PCs. Syn and other attacks performed throudh these Pcs
+	
+
+	2) Ping of death
+		Ping of Death (a.k.a. PoD) is a type of Denial of Service (DoS) attack in which an attacker attempts to crash, destabilize, or freeze the targeted computer or service by sending malformed or oversized packets using a simple ping command.
+
+	3) Ping of Flood
+
+	4) Smurf attack
+	5) Teardrop attack
+	6) Land Attack
