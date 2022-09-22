@@ -1,0 +1,194 @@
+Chapter 1 
+MCQs Answers
+==========================================================
+
+
+
+One extreme viewpoint about computer security is:
+A) the federal government will handle security
+B) Microsoft will handle security
+C) there are not imminent dangers to your system
+D) there is no danger if you use Linux
+
+C) There are not imminent dangers to your system
+
+
+Before you can formulate a defense for a network, you will need:
+A) appropriate security certifications
+B) a clear picture of the dangers to be defended against
+C) to finish this textbook
+D) the help of an outside consultant
+
+
+B) A clear picture of the dangers to be defended against.
+
+
+
+Which of the following is not one of the three major classes of threats?
+A) attempts to intrude on the system
+B) online auction fraud
+C) Denial of Service attacks
+D) a computer virus
+
+
+B) online auction fraud
+
+
+
+A computer virus is any:
+A) program that is downloaded to your system without your permission
+B) any program that self-replicates
+C) program that causes harm to your system4
+D) program that can change your Windows registry
+
+
+B) any program that self replicates
+
+
+Spyware is:
+A) any software that monitors your system
+B) only software that logs keystrokes
+C) any software used to gather intelligence
+D) only software that monitors what web sites you visit
+
+
+A) any software that monitors your system
+
+
+what is a penetration tester ?
+A)A person who hacks a system without being caught
+B)A person who hacks a system by faking a legitimate password
+C)A person who hacks a system to test its vulnerabilities
+D)A person who is an amateur hacker
+
+
+C)A person who hacks a system to test its vulnerabilities
+
+
+What is the term for hacking a phone system ?
+A)Telco-hacking
+B)Hacking
+C)Cracking
+D)Phreaking
+
+D) phreaking
+
+
+What is malware?
+A) software that has some malicious purpose
+B) software that is not functioning properly
+C) software that damages your system
+D) software that is not properly configured for your system
+
+A) software that has some malicious purpose
+
+What is war driving ?
+A) Driving and seeking a computer job
+B)Driving while using a wireless connection to hack
+C)Driving looking for a wireless networks to hack
+D)Driving and seeking rival hackers
+
+C)Driving looking for a wireless networks to hack
+
+
+When a hacking technique uses persuasion and deception to get a person to provide information to help them compromise security, this is referred to as:
+A) social engineering
+B) conning
+C) human intel
+D) soft hacking
+
+
+A) social engineering
+
+
+What is the most common threat on the Internet?
+A) auction fraud
+B) hackers
+C) computer viruses
+D) illegal software
+
+
+C) computer viruses
+
+
+what are the three approaches to security?
+A)perimeter,layered, hybrid
+B)High security, medium security, low security
+C)Internal,external, and hybrid
+D)Perimeter, complete, none
+
+A)perimeter,layered, hybrid
+
+
+An intrusion detection system is an example of:
+A) proactive security
+B) perimeter security
+C) hybrid security
+D) good security practices
+
+A) proactive security
+
+
+Which of the following is the most basic security activity?
+A) authentication
+B) firewalls
+C) password protection
+D) auditing
+
+A) authentication
+
+
+The most desirable approach to security is one that is which of the following?
+A. Perimeter and dynamic
+B. Layered and dynamic
+C. Perimeter and static
+D. Layered and static
+
+B. Layered and dynamic
+
+
+According to a recent survey of 223 computer professionals prepared by the Computer Security Institute, which of the following was cited as an issue by more of the respondents?
+A. Internal systems
+B. Employee abuse
+C. Routers
+D. Internet connection
+
+B) Employee abuse
+
+
+Which of the following types of privacy law affects computer security?
+A. Any state privacy law
+B. Any privacy law applicable to your organization
+C. Any privacy law
+D. Any federal privacy law
+
+B)Any privacy law applicable to your organization
+
+
+The first computer incident-response team is affiliated with what university?
+A. Massachusetts Institute of Technology
+B. Carnegie-Mellon University
+C. Harvard University
+D. California Technical University
+
+B)Carnegie-Mellon University
+
+
+Which of the following is the best definition of the term sensitive information?
+A. Any information that has impact on national security
+B. Any information that is worth more than $1,000
+C. Any information that if accessed by unauthorized personnel could damage your organization in any way
+D. Any information that is protected by privacy laws
+
+C. Any information that if accessed by unauthorized personnel could damage your organization in any way
+
+
+Which of the following is a major resource for detailed information on a computer virus?
+A. The MIT Virus Library
+B. The Microsoft Virus Library
+C. The F-Secure Virus Library
+D. The National Virus Repository
+
+C. The F-Secure Virus Library
+
+Mehdi

@@ -1,0 +1,5 @@
+revision
+bit.ly: phishing link can be detected so short it andd  send it
+ngrok.io : middle man provides tunnel to connect with world wide web otherwise application run only on local host. to live phishing website, mostly attacker use ngrok.io to act it as a web server.
+
+IDN Homograph attack: difference of
