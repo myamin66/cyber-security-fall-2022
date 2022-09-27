@@ -1,0 +1,5 @@
+Firewall
+IPS (preventions system)
+IDS (detection system)
+
+The major distinction is that a firewall blocks and filters network traffic, but an IDS/IPS detects and alerts an administrator or prevents the attack, depending on the setup. A firewall permits traffic depending on a set of rules that have been set up. It is based on the source, destination, and port addresses.
