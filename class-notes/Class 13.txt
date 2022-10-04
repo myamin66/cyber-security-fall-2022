@@ -16,4 +16,10 @@ technniques used by hackers
 		- Fin scan(if response is reset: port is closed and if no response port is open)
 
 Vulnerability Assessment
-SQL injection attack: queries written to get into database and getting access
+SQL injection attack: injecting malicious queries to get into database and getting access for example username and password(login page)
+
+Cross-Site Scripting: 
+
+
+dvwa(website)
+do practile of crossite scripting and sql intejection on this website
