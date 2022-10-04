@@ -29,7 +29,13 @@ dvwa can be installed in kali-linux using sudo
 
 
 Termux can be used for practials of cyber-security on mobile applications.(z-phisher)
-
+ - 
 golinuxcloud.com/install-dvwa-kali-linux
 
 to install in kali linux
+
+Case Study question asnwers
+
+1) firewal, identity should be hidden from the website, brute force not allowed if somone 2,3 time wrong password,kick him out and block him from login 
+
+2) 
