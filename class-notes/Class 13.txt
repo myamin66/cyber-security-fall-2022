@@ -1,25 +1,35 @@
-Chapter 7
+Chapter 6
 
 technniques used by hackers
 
 1) reconannisace
-- passive scanning techniques(information gathering without showing your identity)
+2) passive scanning techniques(information gathering without showing your identity)
 	- phishing
 	- social engineering
 	- for exmaple, system admin iba-suk can be checked (if change new policies)
 	- technology check (.net dev required adds)
-- Active techniques (your identity can be checked)
+3) Active techniques (your identity can be checked)
 	- ports scanning
 		- ping (ping port_number: if response port is open and vice versa)
 		- connect scan
 		- Sin scan
 		- Fin scan(if response is reset: port is closed and if no response port is open)
+4) 
+i- Vulnerability Assessment
+ii- SQL injection attack: injecting malicious queries to get into database and getting access for example username and password(login page)
 
-Vulnerability Assessment
-SQL injection attack: injecting malicious queries to get into database and getting access for example username and password(login page)
-
-Cross-Site Scripting: 
+iii- Cross-Site Scripting: 
 
 
 dvwa(website)
 do practile of crossite scripting and sql intejection on this website
+
+
+dvwa can be installed in kali-linux using sudo 
+
+
+Termux can be used for practials of cyber-security on mobile applications.
+
+golinuxcloud.com/install-dvwa-kali-linux
+
+to install in kali linux
