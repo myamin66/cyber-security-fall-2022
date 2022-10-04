@@ -28,7 +28,7 @@ do practile of crossite scripting and sql intejection on this website
 dvwa can be installed in kali-linux using sudo 
 
 
-Termux can be used for practials of cyber-security on mobile applications.
+Termux can be used for practials of cyber-security on mobile applications.(z-phisher)
 
 golinuxcloud.com/install-dvwa-kali-linux
 
