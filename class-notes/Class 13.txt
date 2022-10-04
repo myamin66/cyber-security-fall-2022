@@ -1,0 +1,19 @@
+Chapter 7
+
+technniques used by hackers
+
+1) reconannisace
+- passive scanning techniques(information gathering without showing your identity)
+	- phishing
+	- social engineering
+	- for exmaple, system admin iba-suk can be checked (if change new policies)
+	- technology check (.net dev required adds)
+- Active techniques (your identity can be checked)
+	- ports scanning
+		- ping (ping port_number: if response port is open and vice versa)
+		- connect scan
+		- Sin scan
+		- Fin scan(if response is reset: port is closed and if no response port is open)
+
+Vulnerability Assessment
+SQL injection attack: queries written to get into database and getting access

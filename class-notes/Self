@@ -1,0 +1,14 @@
+Security: state of being secure and free from harm, its a process
+
+Information Security: Overall physicall, internet, infrastructure, HR, Network security
+
+Network Security: Related to networked things
+
+Cyber Security: Subset of IS. Secure data present on the internet in electronic form
+				Protection of internet connected system including hardware, software and data from cyber attacks
+				
+CIA Triangle: Confidentiality: Authorized restriction on information access
+				Integrity: Guiding against improper modificiation, deletion and non-repudation
+				Availablity: Ensuring timely and reliable access and use of system
+	Confidentiality> Integrity > Availablity > Authencity  > non-repudation
+	
