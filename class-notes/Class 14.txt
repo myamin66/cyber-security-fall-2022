@@ -1,0 +1,8 @@
+Nmap: used to scan target(open & closed ports, filtered ports, servises, os)
+nmap windows version is : zanmap
+
+like hping3
+
+multiple scans like SIN, FIN, CONNECT etc. if one is not working try other.
+
+scanning types and their commands.
