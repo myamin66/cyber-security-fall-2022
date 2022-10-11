@@ -1,0 +1,67 @@
+Dos attack: def, by injecting virus or network terrafic
+	tools used : TFN and TFN2K, Stacheldracht
+	 DoS Weaknesses: 1)attack stops with disinfectant 2) Hackers can be discovred
+
+Common forms of Attack
+
+ SYN Floods 
+	A SYN flood, also known as a TCP SYN flood, is a type of denial-of-service (DoS) or 
+	distributed denial-of-service (DDoS) attack that sends massive numbers of SYN requests 
+	to a server to overwhelm it with open connections.
+
+	Prevention:
+		1) SYN Cookies
+			initially no buffer allocation, instead use cookies containg hash of client's
+ip address, port number, other inform. upon verfication allocate resources.
+		2) Micro Blocks
+			instead of allocating whole buffer segment, just allocate a litter part 
+e.g (16 byte). 
+		3) RST Cookies
+			Server Sends a false SYN-ACK back, if receive an RST in reply then fake cleint
+otherwise legitimate user
+
+ Ping of death
+
+	What is a ping of death attack. Ping of Death (a.k.a. PoD) is a type of Denial of Service (DoS)
+	attack in which an attacker attempts to crash, destabilize, or freeze the targeted computer or
+	service by sending malformed or oversized packets using a simple ping command.
+
+ Smurf Attack
+	Hacker sends out ICMP broadcast with spoofed source IP(victim ip address), 
+	other pc reply to victim id and network is stopped
+
+ Protection against Smurf attacks
+	 Guard against Trojans. (firewal)
+	 Have adequate AV software. (antivirus)
+	 Utilize proxy servers.
+	 Ensure routers don’t forward ICMP broadcasts.
+ UDP Flood Attack
+	- hacker send udp packets to random port, because of UDP target determines which application
+ is waiting on destination port, since no app in real so it sends "destination unreacheble" to 
+spoofed ip address.
+
+Ping of flood (ICMP Flood Attack)
+	huge number of ping request and very fast, netwrok slow down or disconnect
+ Teardrop Attack
+	 An attacker sends two fragments that cannot be reassembled properly by manipulating the
+header of packet and cause reboot or halt of victim system.
+ Ping of Death
+	Sending a packet larger than the maximum allowable size, causing the target machine to freeze
+or crash down or crash
+
+ Land Attack
+	 Simplest of all attacks
+	 Hacker sends packet with the same source and destination IP
+	 System “hangs” attempting to send and receive message
+
+DDOS: Zombie or Bot, Botnet (group of compromised pcs), attack from botnet to single victim
+Realworld Example:  MyDoom
+
+More methods for prevention: firewal to filter out packets, NetStat
+
+-Disallow traffic not originating within the network.
+ Disable all IP broadcasts.
+ Filter for external and internal IP addresses.
+ Keep AV signatures updated.
+ Keep OS and software update.
+ Have an Acceptable Use Policy

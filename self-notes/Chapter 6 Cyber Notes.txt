@@ -1,0 +1,7 @@
+Chapter 07: Techniques used by hackers
+
+Passive scanning is a method of vulnerability detection that relies on information gleaned
+ from network data that is captured from a target computer without direct interaction.
+
+Active scanning tries to connect to every IP address on a network and determine open TCP/IP ports, 
+application version information and device vulnerabilities.
