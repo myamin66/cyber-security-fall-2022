@@ -1,0 +1,19 @@
+Reconnaissance: gathering info of target in indirect way. 
+	Active (gathering info without connecting him, can be nmap, or using call or using social 
+engineering techniques) different tools, identity can be revealed
+vs 	Passive: if info public, or blog or tender 
+
+Reconannsiance is combination of below three
+ vs 
+footprinting : info of system related to network, tools installed, ports, services
+active vs passive
+vs 
+finger printing: info of system related to OS
+
+vs enemuration: attack ko further ko escalate, 
+
+Industrial Espionage 
+
+Spying the info about: 
+
+Intellectual Property: IP
