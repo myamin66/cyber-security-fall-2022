@@ -30,3 +30,9 @@ User Cridentials in websites are converted to the hash if similar then login the
 
 Rod: for encryption and decryption
 
+cybersecurity: how to protect data, etc
+cyber forensic: if data is compormised after protection, then reasons, evidences etc
+	collect evidences that are provable
+generate forensically valid copy, and do practical on that
+
+offline system to stop cyber atttack immidiately

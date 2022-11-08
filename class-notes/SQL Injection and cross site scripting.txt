@@ -1,0 +1,59 @@
+SQL Injection and cross site scripting working with example 
+.....
+SQL Injection:
+.....
+It is a code injection technique used to execute the malicious SQL statements.
+OR
+It is an attack used to take over database servers by dynamically poisining sql queries. 
+....
+How SQL Injection works
+.....
+select * from users
+where username='abc@xyz.com'
+and password='123456'
+
+        |
+	|
+       \ /
+
+select * from users where username='OR 1=1--'
+and 
+password='123456'
+
+Entering “100 OR 1=1” in the query input box will return a response with the details of a table.
+
+"OR ""="
+This SQL injection approach is similar to the above. A bad actor needs to enter "OR ""=" into the query input box. 
+These two signs serve as the malicious code to break into the application. Consider the following example.
+An attacker seeks to retrieve user data from an application and can simply type “OR=” in the user ID or password.
+As this SQL statement is valid and true,it will return the data of the user table in the database.
+
+........
+Cross site Scripting
+....
+It is a code injection attack executed on the clinet side of a 
+web application
+...
+..> attacker inject malicious script through web browser
+..> the malicious script is executed when the victim visits the web page 
+..> Steal cookies , sesion tokens and other sensitive information
+..> modify the content of the website
+
+.......
+How cross site scripting works 
+.....
+
+	web-server
+	    | |
+	    | |
+	    \ /
+	    PC
+	   /  \
+	  /    \
+       Victim    Hacker
+
+An attacker inject client side script into web pages viewed by other users.
+oR
+Cross-site scripting works by manipulating a vulnerable web site so that it returns malicious JavaScript 
+to users. When the malicious code executes inside a victim's browser, the attacker can fully compromise their 
+interaction with the application.
