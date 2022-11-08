@@ -4,4 +4,29 @@ symetric(same key for encryption and decryption) vs asymetric cryptography
 
 digital signature: reverse of asymetric
 	sender uses his own private key, and reciever uses his public key
-	non-repudition can be achieved using this	
+	non-repudition can be achieved using this
+
+ceaser cipher(alphabets shifting, multiple shifting - 2 time, 3 time etc ), substitution, alphabets, 	
+fast is symetric. issue is key should be same for reciever and sender
+internet uses symetric encryption
+sending key on network to recipient is big issue
+key is send as asymetic way remaining msg is send in symetric way
+data is most imp. it should not travel as plain text, it should be encrypted
+
+algorithms are not certified that is as per standard or unbreakable
+some algos are commercially available
+nothing is unbreakable
+most imp is key not algorithm
+check history of developers while purchasing algos
+
+-------------------------------------------
+HASHING
+--------------------------
+it is irreversible
+if hash made of file then file cannot be made with its hash.
+digital evidences,
+when a file is changed then its hash also changes. Which is helpfull in Cyber forenzik.
+User Cridentials in websites are converted to the hash if similar then login the user else wrong user.
+
+Rod: for encryption and decryption
+
