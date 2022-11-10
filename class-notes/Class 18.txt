@@ -1,0 +1,9 @@
+cyber forensic, digiatl signature, cryptography, encryption,
+
+5 logs 
+enventviewr = in windows
+
+2) Collection: chain of study
+	a) acquisition
+	b) custody
+autopsy: for performing forensic analysis on hard drive
