@@ -14,3 +14,12 @@ probe: network audit, and check time to time for security and find vulnerability
 
 physical:  maintain physical things, locker, keys etc
 
+securing networks, workstation, services and individual computers
+
+
+cybercrime: against individual
+cyber warfare: against complete nation/ country 
+
+After mid chapters: 7,8,11,12,14
+
+Tuesday Quizz, 7,8,11
