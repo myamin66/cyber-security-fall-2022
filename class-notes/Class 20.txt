@@ -1,0 +1,16 @@
+six p's to secure the system
+patch, ports, protect, policy, prob, physical, 
+
+patch: to overcome system vulnerablities release patch
+
+ports: close unused ports (services, system running on logical ports)
+
+protect: to protect system from outside threads (install firewall, antiviruses, anti malwares )
+
+policies: password related, data access related, employees related, hr related (make all policies in
+regard with security), privliges, access, who can install, policies to make data secure
+
+probe: network audit, and check time to time for security and find vulnerability, check terafic, 
+
+physical:  maintain physical things, locker, keys etc
+
