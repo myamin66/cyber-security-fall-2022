@@ -5,3 +5,20 @@ Peneteration testing
 question on tools and their working
 
 1) autopsy
+
+
+A penetration test (pen test) is an authorized simulated 
+attack performed on a computer system to evaluate its security.
+ Penetration testers use the same tools, techniques, 
+and processes as attackers to find and demonstrate the business impacts of weaknesses in a system.
+
+white box testing:
+tester is provided with the full information and then let him/her to test
+the system;
+
+black box testing: nothing is provided to the tester and let him/her to 
+test the system.
+
+gray box testing:
+The tester has some know how of the system not the complete knowledge of th e
+system and is allowed to test the system.
