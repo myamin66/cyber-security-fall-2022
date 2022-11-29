@@ -1,0 +1,7 @@
+ topics very important for exam
+HoneyPot
+Peneteration testing
+
+question on tools and their working
+
+1) autopsy
