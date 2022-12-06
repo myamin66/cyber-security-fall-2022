@@ -1,0 +1,18 @@
+Types of Stegnography
+Depending on the nature of the cover object(actual object in which secret data is embedded), steganography can be divided into five types:
+Text Steganography.
+Image Steganography.
+Video Steganography.
+Audio Steganography.
+Network Steganography.
+
+How to check there is stegnography in image
+- spectrum of the images
+
+Todays topics
+Stegnography
+Brute force attacks
+DES 
+AES
+
+Google Dorks
