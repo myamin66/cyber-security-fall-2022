@@ -1,0 +1,36 @@
+Paper topics
+
+
+Whatis? purpose?
+In-depths
+1) peneteration testing
+2) honeypots
+
+3) Google Dorks, wireless sniffing and all other topics presentations (2 lines Definition)
+4) Tools related topics (Any 5 tools and their purpose)
+
+	all tools from day 1
+Nessus, hping3, zain map, wireshark, atuposty, burp suite, nmap, 
+
+5) Case Study (1 Question)
+Define Following(1 Question)
+Presentation (1 Question)
+First Mid (General Question, No indepth)
+
+
+Cyber forensics (Book & Slides)
+Cyber warfare terrorsim
+industrial espionage
+
+All chapters that we studeies
+
+for example: cyber forensics 6 steps ()
+6 P's
+Question 1,2,3,4,5(A&B)
+No MCQs
+
+----------------
+Job concerns 
+folio, systemsLMTD
+
+what does it has benefits in long term (in next 5 years)

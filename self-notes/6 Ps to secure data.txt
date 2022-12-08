@@ -1,0 +1,8 @@
+6 Ps to secure data 
+....
+Patches --> updates of software and OS
+Port --> unused ports must be closed 
+Protect --> protect software and hardware from threats through antivirus , firewalls
+Prob -- > network ko audit krna ,, is policy being followed.
+Policy --> there should be policies to protect , use the systems in organization
+Physical --> make secure physical server rooms , are they loked or not , ensuring the acces of authorized personel.
