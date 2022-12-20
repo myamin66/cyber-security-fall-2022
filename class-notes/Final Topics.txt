@@ -21,8 +21,17 @@ First Mid (General Question, No indepth)
 Cyber forensics (Book & Slides)
 Cyber warfare terrorsim
 industrial espionage
+-----------------
+Final Chapters
+No: 
+6 	Techniques Used by Hackers
+7 	Industrial Espionage in Cyberspace
+8 	Encryption
+11 	Network Scanning and Vulnerability Scanning
+12 	Cyber Terrorism and Information Warfare
+Cyber forensic
 
-All chapters that we studeies
+----------------
 
 for example: cyber forensics 6 steps ()
 6 P's
